@@ -18,3 +18,7 @@
 
 .vscode/*
 dump.gz
+
+# Data file 
+
+data/
